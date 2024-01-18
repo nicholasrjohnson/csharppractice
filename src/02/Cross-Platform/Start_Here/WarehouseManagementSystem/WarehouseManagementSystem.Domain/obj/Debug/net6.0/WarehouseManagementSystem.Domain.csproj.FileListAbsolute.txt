@@ -1,0 +1,12 @@
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/bin/Debug/net6.0/WarehouseManagementSystem.Domain.deps.json
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/bin/Debug/net6.0/WarehouseManagementSystem.Domain.dll
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/bin/Debug/net6.0/WarehouseManagementSystem.Domain.pdb
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/WarehouseManagementSystem.Domain.csproj.AssemblyReference.cache
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/WarehouseManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/WarehouseManagementSystem.Domain.AssemblyInfoInputs.cache
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/WarehouseManagementSystem.Domain.AssemblyInfo.cs
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/WarehouseManagementSystem.Domain.csproj.CoreCompileInputs.cache
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/WarehouseManagementSystem.Domain.dll
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/refint/WarehouseManagementSystem.Domain.dll
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/WarehouseManagementSystem.Domain.pdb
+/home/njohnson/GIT/c-sharp-advanced-language-features/src/02/Cross-Platform/Start_Here/WarehouseManagementSystem/WarehouseManagementSystem.Domain/obj/Debug/net6.0/ref/WarehouseManagementSystem.Domain.dll
